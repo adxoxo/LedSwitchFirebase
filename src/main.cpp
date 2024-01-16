@@ -3,18 +3,18 @@
 #include <ESP8266WiFi.h>
 #include <ArduinoJson.h>
 #include <WiFiManager.h>
-#include <Firebase_ESP_Client.h>
+#include <Firebase_ESP_Client.h> 
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
 #define LED_PIN D0
 
-#define API_KEY "AIzaSyDDQlkaGTSRTLTcmvK10MBYqX_YZWcloPo"
-#define DATABASE_URL "https://ledswitch-7f583-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define PROJECT_ID "ledswitch-7f583"
+#define API_KEY 
+#define DATABASE_URL 
+#define PROJECT_ID 
 
-#define WIFI_SSID "Gemenez_2.4ghz"
-#define WIFI_PASSWORD "LifeIsHere"
+#define WIFI_SSID 
+#define WIFI_PASSWORD 
 
 #define USER_EMAIL "sd@gmail.com"
 #define USER_PASSWORD "123456"
